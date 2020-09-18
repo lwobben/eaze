@@ -24936,7 +24936,7 @@ r.toString
 if(s.$2(a,r)>0){C.b.m(m.b,b,r)
 b=q}}C.b.m(m.b,b,a)}}
 F.uo.prototype={
-M:function(a,b){return new S.nq(new F.nB("Flutter Demo Home Page",null),"Flutter Demo",X.UZ(null,C.lv,X.a0T()),null)}}
+M:function(a,b){return new S.nq(new F.nB("Welcome to Eaze!",null),"Eaze webpage",X.UZ(null,C.lv,X.a0T()),null)}}
 F.nB.prototype={
 aM:function(){return new F.pO(C.n)}}
 F.pO.prototype={
