@@ -1,3 +1,3 @@
 # Eaze
 
-Coming soon page for hobby project, created using Flutter, [hosted via Github pages](lwobben.github.io/eaze).
+Coming soon page for hobby project, created using Flutter, [hosted via Github pages](https://lwobben.github.io/eaze/#/).
